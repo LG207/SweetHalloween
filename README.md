@@ -1,7 +1,7 @@
 # SweetHalloween
 Pratical Assignment
 
-*#Portuguese*
+# Portuguese
 
 **1. Introdução**
 Este projeto consiste em um jogo desenvolvido em Python utilizando a biblioteca Pygame.
@@ -34,7 +34,7 @@ Este projeto de jogo em Pygame demonstra o uso de conceitos fundamentais de dese
 
 O jogo pode ser expandido com mais fases, tipos de inimigos, armas, e elementos de narrativa, tornando-o um projeto com grande potencial para crescimento.
 
-*# English:*
+# English:
 
 **1. Introduction**
 This project is a game developed in Python using the Pygame library.
